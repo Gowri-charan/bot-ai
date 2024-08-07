@@ -1,0 +1,22 @@
+{
+    "conversations": [
+      {
+        "id": 1,
+        "question": "What is the meaning of life?",
+        "response": "The meaning of life is to find happiness and fulfillment.",
+        "feedback": {
+          "rating": 4,
+          "subjectiveFeedback": "This response was helpful, but could be more detailed."
+        }
+      },
+      {
+        "id": 2,
+        "question": "What is the best way to learn a new language?",
+        "response": "The best way to learn a new language is through immersion and practice.",
+        "feedback": {
+          "rating": 5,
+          "subjectiveFeedback": "This response was very helpful and provided useful tips."
+        }
+      }
+    ]
+  }
